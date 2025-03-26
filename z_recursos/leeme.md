@@ -5,4 +5,5 @@
 ![La tarjeta](dialogor.png)
 
 ## Ejemplo de lista
-![Lista]()
+![La tarjeta](lista.png)
+![La tarjeta](listar.png)
