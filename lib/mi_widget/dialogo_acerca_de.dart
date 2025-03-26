@@ -12,7 +12,7 @@ class _DialogoAcercaDeState extends State<DialogoAcercaDe> {
   Widget build(BuildContext context) {
     return Center(
       child: ElevatedButton(
-        child: const Text('Dialogo Acerca deg'),
+        child: const Text('Dialogo Acerca de'),
         onPressed: () {
           showDialog(
             context: context,

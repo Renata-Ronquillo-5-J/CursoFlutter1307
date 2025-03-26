@@ -1,3 +1,4 @@
+import 'package:Ronquillo/mi_widget/Ejemplo_lista.dart';
 import 'package:flutter/material.dart';
 import 'package:Ronquillo/mi_widget/dialogo_acerca_de.dart';
 
@@ -18,7 +19,7 @@ class MiTarjeta extends StatelessWidget {
             title: Text("Flutter Reny"),
             centerTitle: true,
           ),
-          body: const DialogoAcercaDe(),
+          body: const lista12(),
         ));
   }
 }
